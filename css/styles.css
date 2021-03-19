@@ -2,4 +2,10 @@
 	font-family: 'Frank Ruhl Libre';
 	font-weight: 700;
 	font-size: 18px;
+	color: white;
+}
+
+.navigation-properties {
+	height: 100px;
+	background-color: #21254A;
 }
