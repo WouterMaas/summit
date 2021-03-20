@@ -9,3 +9,12 @@
 	height: 100px;
 	background-color: #21254A;
 }
+
+div.front-page {
+	max-height: 300px;
+}
+
+.front-page img {
+	height: 100%;
+}
+
