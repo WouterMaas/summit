@@ -11,10 +11,14 @@
 }
 
 div.front-page {
-	max-height: 300px;
+	max-height: 500px;
 }
 
-.front-page img {
-	height: 100%;
+.front-page-image {
+	width: 100%
 }
 
+.about-us {
+	text-align:justify;
+	align-items:center;
+}
