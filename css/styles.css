@@ -1,22 +1,36 @@
-.navigation-font {
+
+/*General*/
+span {
+	font-family: Roboto;
+}
+
+
+
+/*Navbar*/
+.nav-link span {
 	font-family: 'Frank Ruhl Libre';
 	font-weight: 700;
 	font-size: 18px;
 	color: white;
 }
 
-.navigation-properties {
+.navbar {
 	background-color: #21254A;
 }
 
-div.front-page {
+
+
+/*Front page carousel*/
+div.carousel-item {
 	max-height: 500px;
 }
 
-.front-page-image {
-	width: 100%
+div.carousel-item img {
+	width: 100%;
 }
 
+
+/*About us*/
 .about-us {
 	text-align:justify;
 	align-items:center;
