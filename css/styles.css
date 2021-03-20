@@ -4,7 +4,14 @@ span {
 	font-family: Roboto;
 }
 
+h2 { 
+	color: #F3a252;
+	font-weight: 700;
+} 
 
+body { 
+	
+} 
 
 /*Navbar*/
 .nav-link span {
@@ -29,9 +36,40 @@ div.carousel-item img {
 	width: 100%;
 }
 
+#carousel-image1 {
+	width: 100%;
+   height: auto;
+}
+ 
+#carousel-image2 {
+	margin: 0 auto;
+}
 
 /*About us*/
 .about-us {
 	text-align:justify;
 	align-items:center;
+}
+
+/*Forum*/
+#Forum { 
+	background-image: url(../images/typewriter.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 300px;
+	color: white;
+	text-align: center;
+}
+
+/*Footer*/
+#Footer { 
+	background-color: #21254A;
+	font-family: 'Frank Ruhl Libre';
+	font-weight: 700;
+	font-size: 18px;
+	color: white;
+	padding-top:20px;
+	padding-bottom: 10px;
+	padding-left: 20px;
 }
