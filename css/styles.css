@@ -57,10 +57,17 @@ div.carousel-item img {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	height: 300px;
+	height: 350px;
 	color: white;
 	text-align: center;
 }
+
+.forum_text{
+	margin: 0px 100px;
+	padding-bottom: 20px;
+	background-color: rgb(159, 168, 189, 0.8);
+}
+
 
 /*Coaching*/
 #coaching_image { 
