@@ -6,7 +6,8 @@ span {
 
 h2 { 
 	color: #F3a252;
-	font-weight: 700;
+	font-family: 'Frank Ruhl Libre';
+	font-weight: 700;	
 } 
 
 body { 
@@ -23,6 +24,11 @@ body {
 
 .navbar {
 	background-color: #21254A;
+	margin-bottom: 0.7em
+}
+
+.navbar-margin {
+	margin-top: 65px
 }
 
 
@@ -34,6 +40,20 @@ div.carousel-item {
 
 div.carousel-item img {
 	width: 100%;
+	height: 100%;
+}
+
+.carousel-caption h5 {
+	font-family: 'Frank Ruhl Libre';
+	font-weight: 700;
+	font-size: 200%;
+	color: #F3a252;
+	text-shadow: 2px 2px 2px #21254A;
+}
+
+.carousel-caption span {
+	font-weight: 600;
+	text-shadow: 2px 2px 2px #21254A;
 }
 
 #carousel-image1 {
@@ -45,11 +65,15 @@ div.carousel-item img {
 	margin: 0 auto;
 }
 
+
+
 /*About us*/
 .about-us {
 	text-align:justify;
 	align-items:center;
 }
+
+
 
 /*Forum*/
 #Forum { 
@@ -61,6 +85,8 @@ div.carousel-item img {
 	color: white;
 	text-align: center;
 }
+
+
 
 /*Footer*/
 #Footer { 
