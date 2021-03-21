@@ -41,10 +41,18 @@ div.carousel-item img {
 	height: auto;
 }
 
-.carousel-caption h5 {
+#caption-1 {
+	font-family: 'Frank Ruhl Libre';
+	font-size: 350%;
+	font-weight: 700;
+	color: #F3a252;
+	text-shadow: 2px 2px 2px #21254A;
+}
+
+#caption-2, #caption-3 {
 	font-family: 'Frank Ruhl Libre';
 	font-weight: 700;
-	font-size: 200%;
+	font-size: 300%;
 	color: #F3a252;
 	text-shadow: 2px 2px 2px #21254A;
 }
