@@ -74,30 +74,32 @@ div.carousel-item img {
 
 
 /*About us*/
-.about-us {
+#About-Us {
 	text-align:justify;
 	align-items:center;
+	padding: 7em 0;
 }
 
 
 
 /*Forum*/
 #Forum { 
-	background-image: url(../images/typewriter.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center;
-	height: 350px;
+	background-position: center;	
+	background-image: url("../images/typewriter-blurred.jpg");
+	padding: 12em 8em;
 	color: white;
 	text-align: center;
 }
 
-.forum_text {
-	background-color: rgb(159, 168, 189, 0.6);
-	margin: 0px 80px; 
-}
+
 
 /*Coaching*/
+#Coaching {
+	padding: 10em 0;
+}
+
 #coaching_image {
 	padding-top: 50px;
 }
