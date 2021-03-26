@@ -125,6 +125,10 @@ div.carousel-item img {
 
 /*about-us.html*/
 .team-images {
-	max-width: 250px;
+	max-height: 250px;
 }
 
+.col-center {
+	float: none;
+    margin: 0 auto;
+}
