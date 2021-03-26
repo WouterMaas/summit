@@ -121,3 +121,13 @@ div.carousel-item img {
 	padding-bottom: 10px;
 	padding-left: 20px;
 }
+
+
+/*about-us.html*/
+.team-images {
+	max-width: 250px;
+}
+
+.team-photo-center {
+	text-align: center;
+}
