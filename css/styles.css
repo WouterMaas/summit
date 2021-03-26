@@ -124,6 +124,10 @@ div.carousel-item img {
 
 
 /*about-us.html*/
+.padding-about {
+	padding: 70px 50px;
+}
+
 .team-images {
 	max-height: 250px;
 }
