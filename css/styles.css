@@ -146,6 +146,20 @@ div.carousel-item img {
 	background-size: cover;
 	background-position: center;	
 	background-image: url("../images/community1.jpg");
-	padding: 12em 8em;
+	padding: 15em 8em;
 	text-align: center;
 } 
+
+.forum_title {
+	position: relative;
+	bottom: 110px;
+}
+
+.forum_title h2 { 
+	font-size: 75px;
+} 
+
+.forum_title p { 
+	font-size: 25px;
+	color: white;
+}
