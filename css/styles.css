@@ -128,13 +128,33 @@ div.carousel-item img {
 	padding: 70px 50px;
 }
 
+.about-team {
+	padding-top: 50px;
+	padding-bottom: 80px;
+}
+
 .team-images {
-	max-height: 250px;
+	max-height: 200px;
 }
 
 .col-center {
 	float: none;
     margin: 30px auto;
+}
+
+#team-summit {
+	font-family: 'Frank Ruhl Libre';
+	font-weight: 700;
+	color: #F3A252;
+	font-size: 250%;
+	padding: 20px;
+	text-shadow: 1px 1px 0px #000000;
+}
+
+.about-team-images {
+	padding-top: 55px;
+	padding-bottom: 55px;
+	background-color: #E4E4E4;
 }
 
 .about-us-title {
@@ -143,7 +163,7 @@ div.carousel-item img {
 	align-items: center;
 }
 
-#about-our-team {
+#about-our-team-title {
 	background-image: url("../images/coaching.jpg");
 	background-size: cover;
 	background-position: center;
