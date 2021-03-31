@@ -152,8 +152,7 @@ div.carousel-item img {
 }
 
 .about-team-images {
-	padding-top: 55px;
-	padding-bottom: 55px;
+	padding: 55px 20px;
 	background-color: #E4E4E4;
 }
 
@@ -177,6 +176,10 @@ div.carousel-item img {
 
 .about-title {
 	text-shadow: 2px 2px 2px #21254A;
+}
+
+#about-vision {
+	line-height: 1.5;
 }
 
 
