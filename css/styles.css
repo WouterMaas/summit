@@ -134,7 +134,29 @@ div.carousel-item img {
 
 .col-center {
 	float: none;
-    margin: 0 auto;
+    margin: 30px auto;
+}
+
+.about-us-title {
+	max-height: 500px;
+	display: flex;
+	align-items: center;
+}
+
+#about-our-team {
+	background-image: url("../images/coaching.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#about-our-vision {
+	background-image: url("../images/community1.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.about-title {
+	text-shadow: 2px 2px 2px #21254A;
 }
 
 
