@@ -183,6 +183,10 @@ div.carousel-item img {
 	line-height: 1.5;
 }
 
+.about-socialmedia {
+	max-height: 75px;
+}
+
 
 
 /*forum.html*/
