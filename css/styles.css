@@ -31,7 +31,22 @@ h2 {
 
 
 
-/*Front page carousel*/
+/*Footer*/
+#Footer { 
+	background-color: #21254A;
+	font-family: 'Frank Ruhl Libre';
+	font-weight: 700;
+	font-size: 18px;
+	color: white;
+	padding-top:20px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+}
+
+
+
+
+/*index.hmtl - Front page carousel*/
 div.carousel-item {
 	max-height: 500px;
 }
@@ -76,8 +91,7 @@ div.carousel-item img {
 }
 
 
-
-/*Front Page About us*/
+/*index.hmtl - Front Page About us*/
 #About-Us {
 	text-align:justify;
 	align-items:center;
@@ -85,9 +99,7 @@ div.carousel-item img {
 }
 
 
-
-
-/*Front Page Forum*/
+/*index.hmtl - Front Page Forum*/
 #Forum { 
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -99,8 +111,7 @@ div.carousel-item img {
 }
 
 
-
-/*Front Page Coaching*/
+/*index.hmtl - Front Page Coaching*/
 #Coaching {
 	padding: 10em 0;
 }
@@ -111,50 +122,15 @@ div.carousel-item img {
 
 
 
-/*Front Page Footer*/
-#Footer { 
-	background-color: #21254A;
-	font-family: 'Frank Ruhl Libre';
-	font-weight: 700;
-	font-size: 18px;
-	color: white;
-	padding-top:20px;
-	padding-bottom: 10px;
-	padding-left: 20px;
-}
 
-
-/*about-us.html*/
+/*about-us.html - General*/
 .padding-about {
 	padding: 70px 50px;
-}
-
-.about-team {
-	padding-top: 50px;
-	padding-bottom: 80px;
-}
-
-.team-images {
-	max-height: 200px;
 }
 
 .col-center {
 	float: none;
     margin: 30px auto;
-}
-
-#team-summit {
-	font-family: 'Frank Ruhl Libre';
-	font-weight: 700;
-	color: #F3A252;
-	font-size: 250%;
-	padding: 20px;
-	text-shadow: 1px 1px 0px #000000;
-}
-
-.about-team-images {
-	padding: 55px 20px;
-	background-color: #E4E4E4;
 }
 
 .about-us-title {
@@ -163,29 +139,62 @@ div.carousel-item img {
 	align-items: center;
 }
 
+
+/*about-us.html - About our team*/
 #about-our-team-title {
 	background-image: url("../images/coaching.jpg");
 	background-size: cover;
 	background-position: center;
-}
-
-#about-our-vision {
-	background-image: url("../images/community1.jpg");
-	background-size: cover;
-	background-position: center;
-}
-
-.about-title {
 	text-shadow: 2px 2px 2px #21254A;
 }
 
-#about-vision {
+#team-summit-title {
+	font-family: 'Frank Ruhl Libre';
+	font-weight: 700;
+	color: #F3A252;
+	font-size: 250%;
+	padding: 20px;
+	text-shadow: 1px 1px 0px #000000;
+}
+
+.about-team {
+	padding-top: 50px;
+	padding-bottom: 80px;
+}
+
+
+/*about-us.html - Team Summit Images*/
+.team-summit {
+	padding: 55px 20px;
+	background-color: #E4E4E4;
+}
+
+.team-images {
+	max-height: 200px;
+}
+
+
+/*about-us.html - Our Vision*/
+.about-vision-content {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#about-our-vision-title {
+	background-image: url("../images/community1.jpg");
+	background-size: cover;
+	background-position: center;
+	text-shadow: 2px 2px 2px #21254A;
+}
+
+#about-vision-text {
 	line-height: 1.5;
 }
 
 .about-socialmedia {
 	max-height: 75px;
 }
+
 
 
 
