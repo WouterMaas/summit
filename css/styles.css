@@ -12,6 +12,7 @@ h2 {
 
 
 
+
 /*Navbar*/
 .nav-link span {
 	font-family: 'Frank Ruhl Libre';
@@ -220,7 +221,7 @@ div.carousel-item img {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;	
-	background-image: url("../images/community1.jpg");
+	background-image: url("../images/coaching2.jpg");
 	padding: 13em 8em;
 	text-align: center;
 } 
