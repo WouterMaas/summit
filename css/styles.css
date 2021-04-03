@@ -141,10 +141,8 @@ div.carousel-item img {
     margin: 30px auto;
 }
 
-.about-us-title {
-	max-height: 500px;
-	display: flex;
-	align-items: center;
+.about-title {
+	font-size: 50px;
 }
 
 
@@ -152,6 +150,7 @@ div.carousel-item img {
 #about-our-team-title {
 	background-image: url("../images/coaching.jpg");
 	background-size: cover;
+	padding: 100px;
 	background-position: center;
 	text-shadow: 2px 2px 2px #21254A;
 }
@@ -166,7 +165,7 @@ div.carousel-item img {
 }
 
 .about-team {
-	padding-top: 50px;
+	padding-top: 60px;
 	padding-bottom: 80px;
 }
 
@@ -191,6 +190,7 @@ div.carousel-item img {
 #about-our-vision-title {
 	background-image: url("../images/coaching2.jpg");
 	background-size: cover;
+	padding: 100px;
 	background-position: center;
 	text-shadow: 2px 2px 2px #21254A;
 }
