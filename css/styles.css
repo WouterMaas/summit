@@ -216,16 +216,25 @@ div.carousel-item img {
 	text-align: center;
 } 
 
-.forum_title {
+#forum_header2 { 
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;	
+	background-image: url("../images/community1.jpg");
+	padding: 13em 8em;
+	text-align: center;
+} 
+
+.forum_title2 {
 	position: relative;
 	bottom: 90px;
 }
 
-.forum_title h2 { 
+.forum_title2 h2 { 
 	font-size: 75px;
 } 
 
-.forum_title p { 
+.forum_title2 p { 
 	font-size: 25px;
 	color: white;
 }
