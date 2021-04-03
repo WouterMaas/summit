@@ -217,7 +217,7 @@ div.carousel-item img {
 	text-align: center;
 } 
 
-#forum_header2 { 
+#coaching_header { 
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;	
@@ -226,16 +226,30 @@ div.carousel-item img {
 	text-align: center;
 } 
 
-.forum_title2 {
+.forum_title {
 	position: relative;
 	bottom: 90px;
 }
 
-.forum_title2 h2 { 
+.forum_title h2 { 
 	font-size: 75px;
 } 
 
-.forum_title2 p { 
+.forum_title p { 
+	font-size: 25px;
+	color: white;
+}
+
+.coaching_title {
+	position: relative;
+	bottom: 90px;
+}
+
+.coaching_title h2 { 
+	font-size: 75px;
+} 
+
+.coaching_title p { 
 	font-size: 25px;
 	color: white;
 }
