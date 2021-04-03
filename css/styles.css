@@ -208,52 +208,82 @@ div.carousel-item img {
 
 /*forum.html*/
 
+ 
+
 #forum_header { 
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: center;	
-	background-image: url("../images/community1.jpg");
-	padding: 13em 8em;
-	text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;    
+    background-image: url("../images/community1.jpg");
+    padding: 13em 8em;
+    text-align: center;
 } 
 
-#coaching_header { 
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: center;	
-	background-image: url("../images/coaching2.jpg");
-	padding: 13em 8em;
-	text-align: center;
-} 
+ 
+
 
 .forum_title {
-	position: relative;
-	bottom: 90px;
+    position: relative;
+    bottom: 90px;
 }
+
+ 
 
 .forum_title h2 { 
-	font-size: 75px;
+    font-size: 75px;
 } 
+
+ 
 
 .forum_title p { 
-	font-size: 25px;
-	color: white;
+    font-size: 25px;
+    color: white;
 }
 
-.coaching_title {
-	position: relative;
-	bottom: 90px;
-}
-
-.coaching_title h2 { 
-	font-size: 75px;
-} 
-
-.coaching_title p { 
-	font-size: 25px;
-	color: white;
-}
+ 
 
 #forum_description { 
-	padding: 5em 0;
+    padding: 5em 0;
+}
+
+ 
+
+
+/*coaching.html*/
+
+ 
+
+#coaching_header { 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;    
+    background-image: url("../images/coaching2.jpg");
+    padding: 13em 8em;
+    text-align: center;
+} 
+
+ 
+
+.coaching_title {
+    position: relative;
+    bottom: 90px;
+}
+
+ 
+
+.coaching_title h2 { 
+    font-size: 75px;
+} 
+
+ 
+
+.coaching_title p { 
+    font-size: 25px;
+    color: white;
+}
+
+ 
+
+#coaching_description { 
+    padding: 5em 0;
 }
