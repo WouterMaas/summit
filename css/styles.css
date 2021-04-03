@@ -29,6 +29,9 @@ h2 {
 	margin-top: 65px
 }
 
+.nav-link.btn.btn-info {
+	margin: 0px 7px;
+}
 
 
 /*Footer*/
@@ -205,13 +208,13 @@ div.carousel-item img {
 	background-size: cover;
 	background-position: center;	
 	background-image: url("../images/community1.jpg");
-	padding: 15em 8em;
+	padding: 13em 8em;
 	text-align: center;
 } 
 
 .forum_title {
 	position: relative;
-	bottom: 110px;
+	bottom: 90px;
 }
 
 .forum_title h2 { 
@@ -223,3 +226,6 @@ div.carousel-item img {
 	color: white;
 }
 
+#forum_description { 
+	padding: 5em 0;
+}
