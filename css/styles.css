@@ -24,6 +24,14 @@ h3 {
 	text-shadow: 2px 2px 2px #21254A;	
 }
 
+.header {
+	max-height: 300px;
+}
+
+.header-position {
+	bottom: 60px;
+}
+
 
 
 
