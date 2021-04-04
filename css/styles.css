@@ -267,7 +267,7 @@ div.carousel-item img {
  
 
 #forum_description { 
-    padding: 5em 0;
+    padding: 5em 3em;
 }
 
  
@@ -311,3 +311,7 @@ div.carousel-item img {
 #coaching_description { 
     padding: 5em 0;
 }
+
+#justification_header {
+	background-color: #21254A;
+} 
