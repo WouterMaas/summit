@@ -4,6 +4,10 @@ span {
 	font-family: Roboto;
 }
 
+p {
+	font-family: Roboto;
+}
+
 h2 { 
 	color: #F3a252;
 	font-family: 'Frank Ruhl Libre';
@@ -109,15 +113,14 @@ div.carousel-item img {
 
 
 /*index.hmtl - Front Page About us*/
-#About-Us {
+#about-us {
 	text-align:justify;
 	align-items:center;
-	padding: 7em 0;
 }
 
 
 /*index.hmtl - Front Page Forum*/
-#Forum { 
+#forum { 
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;	
