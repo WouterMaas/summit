@@ -26,6 +26,8 @@ h3 {
 
 .header {
 	max-height: 300px;
+	padding: 13em 8em;
+    text-align: center;
 }
 
 .header-position {
@@ -325,4 +327,14 @@ div.carousel-item img {
 
 #colour-code { 
 	width: 100%;
+}
+
+
+
+
+.contact-header {
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;    
+    background-image: url("../images/contact-header.jpg");
 }
