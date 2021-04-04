@@ -58,29 +58,6 @@ h3 {
 	margin: 0px 7px;
 }
 
-input[type=text], select, textarea {
-  width: 100%; 
-  padding: 12px; 
-  border: 1px solid #ccc; 
-  border-radius: 20px; 
-  box-sizing: border-box; 
-  margin-top: 6px; 
-  margin-bottom: 16px; 
-  resize: vertical 
-}
-
-input[type=submit] {
-  background-color: #21254A;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-input[type=submit]:hover {
-  background-color: #CACACA;
-}
 
 
 /*Footer*/
@@ -158,7 +135,7 @@ div.carousel-item img {
 }
 
 #Services {
-	padding: 10em 0;
+	padding: 6em 0;
 }
 
 #coaching_image {
@@ -238,11 +215,7 @@ div.carousel-item img {
 
 
 
-
 /*forum.html*/
-
- 
-
 #forum_header { 
     background-repeat: no-repeat;
     background-size: cover;
@@ -252,28 +225,19 @@ div.carousel-item img {
     text-align: center;
 } 
 
- 
-
-
 .forum_title {
     position: relative;
     bottom: 90px;
 }
 
- 
-
 .forum_title h2 { 
     font-size: 75px;
 } 
-
- 
 
 .forum_title p { 
     font-size: 25px;
     color: white;
 }
-
- 
 
 #forum_description { 
     padding: 5em 3em;
@@ -281,49 +245,23 @@ div.carousel-item img {
 
  
 
-
 /*coaching.html*/
-
- 
-
 #coaching_header { 
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;    
-    background-image: url("../images/Contact_Header4.jpg");
-    padding: 13em 8em;
+    background-image: url("../images/coaching2.jpg");
     text-align: center;
 } 
-
- 
 
 .coaching_title {
     position: relative;
     bottom: 90px;
 }
 
- 
-
-.coaching_title h2 { 
-    font-size: 75px;
-} 
-
- 
-
-.coaching_title p { 
-    font-size: 25px;
-    color: white;
-}
-
- 
-
 #coaching_description { 
     padding: 5em 0;
 }
-
-#justification_header {
-	background-color: #21254A;
-} 
 
 #colour-code { 
 	width: 100%;
@@ -331,6 +269,30 @@ div.carousel-item img {
 
 
 
+/*contact.html*/
+input[type=text], select, textarea {
+  width: 100%; 
+  padding: 12px; 
+  border: 1px solid #ccc; 
+  border-radius: 20px; 
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom: 16px; 
+  resize: vertical 
+}
+
+input[type=submit] {
+  background-color: #21254A;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #CACACA;
+}
 
 .contact-header {
 	background-repeat: no-repeat;
@@ -338,3 +300,10 @@ div.carousel-item img {
     background-position: center;    
     background-image: url("../images/contact-header.jpg");
 }
+
+
+
+/*design-justification.htnl*/
+#justification_header {
+	background-color: #21254A;
+} 
