@@ -74,7 +74,6 @@ h3 {
 
 
 
-
 /*index.hmtl - Front page carousel*/
 div.carousel-item {
 	max-height: 500px;
@@ -141,7 +140,6 @@ div.carousel-item img {
 #coaching_image {
 	padding-top: 50px;
 }
-
 
 
 
@@ -225,20 +223,6 @@ div.carousel-item img {
     text-align: center;
 } 
 
-.forum_title {
-    position: relative;
-    bottom: 90px;
-}
-
-.forum_title h2 { 
-    font-size: 75px;
-} 
-
-.forum_title p { 
-    font-size: 25px;
-    color: white;
-}
-
 #forum_description { 
     padding: 5em 3em;
 }
@@ -261,10 +245,6 @@ div.carousel-item img {
 
 #coaching_description { 
     padding: 5em 0;
-}
-
-#colour-code { 
-	width: 100%;
 }
 
 
@@ -307,3 +287,9 @@ input[type=submit]:hover {
 #justification_header {
 	background-color: #21254A;
 } 
+
+.justification-row {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	
+}
